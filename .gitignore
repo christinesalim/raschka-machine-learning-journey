@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Claude Code settings
+.claude/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Data files (if they become large)
+*.csv
+*.data
+!iris.data
+
+# Model files
+*.pkl
+*.joblib
+*.pt
+*.pth
